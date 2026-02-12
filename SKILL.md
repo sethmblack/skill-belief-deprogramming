@@ -1,11 +1,9 @@
 ---
 name: belief-deprogramming
-description: A methodology for identifying and releasing beliefs that were installed
-  rather than chosen. Based on the insight that much of what we "think" is actually
-  conditioning—absorbed from family, culture,...
+description: A methodology for identifying and releasing beliefs that were installed rather than chosen. Based on the insight that much of what we "think" is actually conditioning—absorbed from family, culture,...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - belief-deprogramming
