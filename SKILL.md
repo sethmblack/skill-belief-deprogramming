@@ -3,8 +3,9 @@ name: belief-deprogramming
 description: A methodology for identifying and releasing beliefs that were installed rather than chosen. Based on the insight that much of what we "think" is actually conditioning—absorbed from family, culture,...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3458
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - belief-deprogramming
 - storytelling
